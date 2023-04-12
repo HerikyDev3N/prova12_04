@@ -1,0 +1,27 @@
+#caixa {
+    width: 200px;
+    height: 200px;
+    border: 2px solid #000;
+    margin: 50px auto;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  #caixa.clicou {
+    background-color: green;
+  }
+  
+  #caixa.passou {
+    background-color: blue;
+  }
+  
+  #caixa.saiu {
+    background-color: red;
+  }
+  
+  #mensagem {
+    font-size: 20px;
+    margin-top: 80px;
+    color: #000;
+  }
+  
